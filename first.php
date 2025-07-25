@@ -2,4 +2,4 @@
 <?php
 // Simple PHP code to display a message
 echo "Hello from
-// the first php progra 
+// the first php program
